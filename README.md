@@ -1,5 +1,5 @@
 # Sprint 5 IT Academy | Joke Generator
-![Alt text](https://github.com/JuditKaramazov/Sprint5/blob/115650417655101879ae27c1e07b49c65ea5ac42/src/images/Screenshot-1.PNG)
+![Alt text](https://github.com/JuditKaramazov/Sprint5/blob/c667c5d73ba312d82468636b850f940cd8a78050/src/images/Screenshot-1.PNG)
 
 
 ## Introduction
@@ -17,7 +17,7 @@ Since the website's objective focuses on cheering up the employees of a hypothet
 
 <br>
 
-![Alt text](https://github.com/JuditKaramazov/Sprint5/blob/115650417655101879ae27c1e07b49c65ea5ac42/src/images/Screenshot-2.PNG)
+![Alt text](https://github.com/JuditKaramazov/Sprint5/blob/c667c5d73ba312d82468636b850f940cd8a78050/src/images/Screenshot-2.PNG)
 
 ## Style
 
@@ -26,4 +26,4 @@ In order to customize the assignment, I decided to slightly deviate from the gui
 - Thanks a lot!
 
 
-![Alt text](https://github.com/JuditKaramazov/Sprint5/blob/115650417655101879ae27c1e07b49c65ea5ac42/src/images/Screenshot-3.PNG)
+![Alt text](https://github.com/JuditKaramazov/Sprint5/blob/c667c5d73ba312d82468636b850f940cd8a78050/src/images/Screenshot-3.PNG)
