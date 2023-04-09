@@ -42,7 +42,7 @@ async function getChuckNorrisJoke() {
     return jokeContent
 };
 
-// Dad&Chuck jokes: Randomizer to intercalete jokes.
+// Dad&Chuck jokes: Randomizer to intercalate jokes.
 function randomJoke() {
     let randomOption = Math.floor(Math.random() *2) + 1;
 
@@ -50,7 +50,7 @@ function randomJoke() {
     else { getDadJoke() }
 };
 
-//Scoring the jokes and updating the array.
+// Scoring the jokes and updating the array.
 const rateJoke = (score: number) => {
     let evaluation = {
         joke: jokeContent,
